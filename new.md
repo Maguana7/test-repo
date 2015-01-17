@@ -1,4 +1,4 @@
-# archivo de prueba misntras aprendo arrancar con git, github, repositorio y mas
+# archivo de prueba mientras aprendo arrancar con git, github, repositorio y mas
 
 Bueno aqui disque el # es para encabezados
 y el asterisco para bullet o listas
